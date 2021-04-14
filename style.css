@@ -1,0 +1,72 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+.falf-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    padding-top: 3%;
+}
+.hello{
+    padding-left: 10%;
+    padding-top: 10%;
+    width: 26%;
+}
+p{
+    font-size: 10px;
+}
+.hello h1{
+    color: rgb(245, 63, 63);
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(233, 141, 141),rgb(250, 12, 52));
+    border-radius: 2%;
+    color: white;
+    font-size: 15px;
+
+    
+}
+.hello-mamun{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.latest-work{
+    padding-top: 100px;
+}
+.latest-work h1{
+    text-align: center;
+    padding-top: 40px;
+}
+.work-img{
+    height: 260px;
+    width: 30%;
+    padding-left: 2%;
+}
+.bold{
+    font-size: 40px;
+    
+}
+.clint{
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-left: 30%;
+    text-align: center;
+    width: 40%;
+}
+.ash-color{
+    color: rgba(105, 83, 83, 0.829);
+}
+footer{
+    color: rgb(78, 74, 68);
+    font-size: 10px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+}
